@@ -219,7 +219,7 @@
     {
       "group": "com\\.google\\.android\\.gms",
       "name": "play-services-mlkit-text-recognition",
-      "version": "16\\.0\\.3"
+      "version": "16\\.1\\.3"
     },
     {
       "group": "com\\.google\\.guava",
