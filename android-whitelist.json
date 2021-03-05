@@ -218,6 +218,16 @@
     },
     {
       "group": "com\\.google\\.android\\.gms",
+      "name": "play-services-mlkit-text-recognition",
+      "version": "16\\.0\\.+"
+    },
+    {
+      "group": "com\\.google\\.guava",
+      "name": "guava",
+      "version": "27\\.+"
+    },    
+    {
+      "group": "com\\.google\\.android\\.gms",
       "name": "play-services-ads",
       "version": "16\\.0\\.0"
     },
