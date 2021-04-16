@@ -1776,6 +1776,11 @@
       "group": "com\\.google\\.android\\.gms",
       "name": "play-services-recaptcha",
       "version": "16\\.0\\.0"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
+      "name": "core",
+      "version": "0\\.1\\.0"
     }
   ]
 }
