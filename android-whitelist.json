@@ -1826,22 +1826,22 @@
     {
       "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
       "name": "spirtechmodule",
-      "version": "1\\.+"
+      "version": "0\\.+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
       "name": "decodingmanager",
-      "version": "1\\.+"
+      "version": "0\\.+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
       "name": "ccmexico",
-      "version": "120"
+      "version": "0\\.+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
       "name": "ccmgeneral",
-      "version": "468"
+      "version": "0\\.+"
     }
   ]
 }
