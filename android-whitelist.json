@@ -1817,6 +1817,31 @@
       "group": "com\\.auth0\\.android",
       "name": "jwtdecode",
       "version": "1\\.+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
+      "name": "core",
+      "version": "0\\.+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
+      "name": "spirtechmodule",
+      "version": "1\\.+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
+      "name": "decodingmanager",
+      "version": "1\\.+"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
+      "name": "ccmexico",
+      "version": "120"
+    },
+    {
+      "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
+      "name": "ccmgeneral",
+      "version": "468"
     }
   ]
 }
