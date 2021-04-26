@@ -1821,7 +1821,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.spp_spirtech",
       "name": "core",
-      "version": "EXPERIMENTAL-0.2.0-leo-20210423180639"
+      "version": "0.2.0"
     }    
   ]
 }
